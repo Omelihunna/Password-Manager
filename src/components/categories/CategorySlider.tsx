@@ -53,7 +53,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -63,7 +63,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -73,7 +73,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -83,7 +83,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -93,7 +93,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -103,7 +103,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -113,7 +113,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -123,7 +123,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
@@ -133,7 +133,7 @@ const CategorySlider = () => {
                         <img className={'my-auto rounded-2xl w-2/3 h-2/3'} src={Img} />
                         <div className={'my-auto flex flex-col'}>
                             <span className={'font-bold'}>Google Account</span>
-                            <span className={'text-sm'}>innovinanuonye@gmail.com</span>
+                            <span className={'text-sm'}>Omelihunna@gmail.com</span>
                         </div>
                     </div>
                         <span className={'my-auto p-3 rounded-full bg-blue-400'}><BiCopy/></span>
